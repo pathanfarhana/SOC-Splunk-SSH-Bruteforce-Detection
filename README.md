@@ -355,7 +355,7 @@ data: [45, 30, 15, 7, 3]
 
 ### **Let's Connect!**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/batraju-sairam-016801267/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pathan-farhana-659b95247)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/pathanfarhana)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View_Projects-FF6B6B?style=for-the-badge)](https://github.com/pathanfarhana?tab=repositories)
 
